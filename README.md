@@ -1,8 +1,4 @@
-# zhongwenpatch
-Chinese text and extras for Resident Evil 2 PC (1998) on Classic REbirth: Door Hotkey, keyboard and controller rebinding, cutscene skip support and in-memory fixes. Unofficial; requires Classic REbirth and your own copy of the game.
-
 # Zhongwen Patch
-
 Chinese text and extras for the PC version of Resident Evil 2 (1998)
 running on [Classic REbirth](https://classicrebirth.com).
 
