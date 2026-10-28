@@ -1,6 +1,6 @@
 # Zhongwen Patch
 
-<img src=https://imgur.com/a/jPoeVtE>
+[<img src=https://imgur.com/a/jPoeVtE>](https://github.com/kROM3r/zhongwenpatch/blob/4c27675b2c5bf102d7a4edc146bcdc1d3f70b544/image-1793210835067.png)
 
 Chinese add-on mod with extras for the PC version of Resident Evil 2 (1998)
 running on [Classic REbirth](https://classicrebirth.com).
