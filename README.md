@@ -58,24 +58,28 @@ Supreme Skip files reach the game through a file redirect.
 ## Requirements
 
 - The Chinese PC release of Resident Evil 2 (生化危机2): the retail
-  Simplified discs, Leon, Claire or both installed into one folder.
-- `bio2 1.10.exe`, the executable of Sourcenext's official 1.1.0 update,
-  the only one Classic REbirth accepts. Classic REbirth's site offers it on
-  its Resident Evil 2 page.
+  Simplified discs, Leon, Claire or both installed into one folder. The fan
+  pack 《生化危机2》简繁中文完美版 V1.6 also works.
+- [Classic REbirth](https://classicrebirth.com/index.php/download/resident-evil-2-classic-rebirth/) for Resident Evil 2
+  (`ddraw.dll`, the build of 2024-09-01).
+- `bio2 1.10.exe`, the executable of Sourcenext's
+  [official 1.1.0 update](https://classicrebirth.com/index.php/download/biohazard-2-sourcenext-1-1-0-patch/), the only one
+  Classic REbirth accepts.
+- [Speedrun Edition Gemini's `mod_sr_crypto.7z`](https://classicrebirth.com/index.php/download/re2-sr-2020/)
 - 7-Zip, only for the optional setups: the Speedrun Edition, and preparing
   the Supreme Skip files again.
 
-Classic REbirth (`ddraw.dll`, unmodified) comes with the release. The
-Chinese text is read from the Leon disc's `REGIST\leon.exe`; with only the
+Classic REbirth is not in the release: its author asks that it stay a
+stand-alone download. The Chinese text is read from the Leon disc's `REGIST\leon.exe`; with only the
 Claire disc installed, play in English for now.
 
 ## Install
 
-1. Put `bio2 1.10.exe` in the game folder (the one with `COMMON`, `REGIST`
-   and `Pl0` or `PL1`).
+1. Put `bio2 1.10.exe` and Classic REbirth's `ddraw.dll` in the game folder
+   (the one with `COMMON`, `REGIST` and `Pl0` or `PL1`).
 2. Unzip `Zhongwen_Patch_v1.0.zip` and drag the contents of its folder into
    the game folder.
-3. Open `bio2 1.10.exe`, press **OK** in CONFIGURATION and pick **生化危机2**
+3. Open `bio2 1.10.exe`, press **OK** in CONFIGURATION and pick **生化危机2** or **生化危机2: SPEEDRUN EDITION**
    in MOD SELECTION.
 
 Nothing of your install is deleted or overwritten.
@@ -95,9 +99,9 @@ GPL-3.0. Every release zip also carries the license as `LICENSE.txt`.
 
 | | Release zips | Not included anywhere |
 |---|---|---|
-| Classic REbirth | `ddraw.dll`, unmodified, with its CC BY-NC-ND 4.0 license | |
+| Classic REbirth | | `ddraw.dll`: [download it](https://classicrebirth.com/index.php/download/resident-evil-2-classic-rebirth/) |
 | Door & Cutscene Skip | its files, already prepared, with credit | |
-| Speedrun Edition | the setup only | Gemini's `mod_sr_crypto.7z` |
+| Speedrun Edition | the setup only | Gemini's `mod_sr_crypto.7z`: [download it](https://classicrebirth.com/index.php/download/re2-sr-2020/) |
 | The game | | game data, `bio2 1.10.exe` |
 
 ## Credits
