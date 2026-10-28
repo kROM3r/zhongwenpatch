@@ -56,6 +56,10 @@ redirected as they are read.
   executable Classic REbirth accepts.
 - The Sourcenext language data the mods are built from (`bio2xp.7z`).
 - 7-Zip. To build from source: llvm-mingw (i686).
+- Optional, for Supreme Skip only: Resevilnemesis30's Door & Cutscene Skip
+  mod (`RE2_Door_Cutscene_Skip_*.7z`) and descawed's update
+  (`cutscene_skip_update_1.1.zip`). Put them in `_ZhongwenPatch` and run
+  `Set up Supreme Skip.bat` to prepare the files.
 
 The Chinese text is read from the Leon disc's `REGIST\leon.exe`. With
 only the Claire disc installed, play in English or Japanese for now.
