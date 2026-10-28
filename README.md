@@ -1,6 +1,6 @@
 # Zhongwen Patch
 
-https://imgur.com/a/jPoeVtE
+<img>https://imgur.com/a/jPoeVtE</img>
 
 Chinese text and extras for the PC version of Resident Evil 2 (1998)
 running on [Classic REbirth](https://classicrebirth.com).
