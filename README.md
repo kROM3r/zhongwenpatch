@@ -58,8 +58,7 @@ Supreme Skip files reach the game through a file redirect.
 ## Requirements
 
 - The Chinese PC release of Resident Evil 2 (生化危机2): the retail
-  Simplified discs, Leon, Claire or both installed into one folder. The fan
-  pack 《生化危机2》简繁中文完美版 V1.6 also works.
+  Simplified discs, Leon, Claire or both installed into one folder.
 - `bio2 1.10.exe`, the executable of Sourcenext's official 1.1.0 update,
   the only one Classic REbirth accepts. Classic REbirth's site offers it on
   its Resident Evil 2 page.
