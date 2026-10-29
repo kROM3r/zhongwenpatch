@@ -19,18 +19,6 @@ Targeted fixes to the game and the extras, after 1.0. **Classic REbirth for the 
   - the sewer waterfall room's platform door (ROOM4070, to ROOM40D0), reached by climbing onto the platform with the key held.
 - **Supreme Skip: the sewer tram's scene** (Claire B) no longer comes back after its skip, or at each later press of the action key.
 
-## Downloads
-
-| File | What it is |
-|---|---|
-| `Zhongwen_Patch_v1.1.zip` | Everything in one folder: unzip, then drag its contents into the game folder. |
-| `Zhongwen_Patch_Kit_v1.1.zip` | The same files in six parts, each with its own `HOW TO INSTALL.txt`: where to get Classic REbirth and the Sourcenext executable, then the extras, Chinese support, Supreme Skip and the Speedrun Edition's setup. |
-
-Updating from 1.0:
-
-1. Drag the 1.1 folder's contents over the old ones and let them replace the patch's files. Your saves and `zhongwen_patch.ini` are not in the zip and stay as they are. To keep your CONFIGURATION settings, skip `config.ini`.
-2. If you made the Speedrun Edition with 1.0, double-click `Set up Speedrun Edition.bat` again. `mod_chinese_sr.7z` carries its own copy of the Chinese module (`re2cn_sr.dll`), so until it is made again the Speedrun Edition keeps 1.0's, without the Chinese warning screen. The setup finds `mod_sr_crypto.7z` where 1.0 left it, in `_ZhongwenPatch`.
-
 ## You need
 
 - **Your own copy of the game**, installed from the retail discs: the Leon disc, the Claire disc or both in one folder. The fan pack 《生化危机2》简繁中文完美版 V1.6 works too.
@@ -43,7 +31,7 @@ Updating from 1.0:
 2. Unzip `Zhongwen_Patch_v1.1.zip` and drag the contents of the folder inside into the game folder.
 3. Open `bio2 1.10.exe`, press **OK** in **CONFIGURATION**, then pick **生化危机2** in **MOD SELECTION**.
 
-## Install the Speedrun Edition (optional)
+## Install the Speedrun Edition
 
 **生化危机2: SPEEDRUN EDITION** is Gemini's *BIOHAZARD 2: SPEEDRUN EDITION* on the Chinese release. It is not included: a setup makes the Chinese one from your own copy, in a few seconds.
 
