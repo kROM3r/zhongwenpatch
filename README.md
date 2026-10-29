@@ -21,7 +21,7 @@ Targeted fixes to the game and the extras, after 1.0. **Classic REbirth for the 
 
 ## You need
 
-- **Your own copy of the game**, installed from the retail discs: the Leon disc, the Claire disc or both in one folder. The fan pack 《生化危机2》简繁中文完美版 V1.6 works too.
+- **Your own copy of the game**, installed from the retail discs: the Leon disc, the Claire disc or both in one folder.
 - **Classic REbirth** for Resident Evil 2 (`ddraw.dll`): download it from [its page](https://classicrebirth.com/index.php/download/resident-evil-2-classic-rebirth/). This patch was made with the build offered there, `re2cr-2024-09-01.7z`. It is not included because its author asks that it stay a stand-alone download.
 - **`bio2 1.10.exe`**, the executable from Sourcenext's official 1.1.0 update: download it from [Classic REbirth's site](https://classicrebirth.com/index.php/download/biohazard-2-sourcenext-1-1-0-patch/). It is not included.
 
