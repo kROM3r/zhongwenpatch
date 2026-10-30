@@ -37,7 +37,7 @@ Targeted fixes to the game and the extras, after 1.0. **Classic REbirth for the 
 
 1. Install Zhongwen Patch first (above).
 2. Install [7-Zip](https://www.7-zip.org) if you do not have it: the setup needs it.
-3. Download the Speedrun Edition from [Classic REbirth's site](https://classicrebirth.com/index.php/download/re2-sr-2020/). Put its `mod_sr_crypto.7z`, as it is (do not unpack it), in the game's `_ZhongwenPatch` folder or in the game folder.
+3. Download the Speedrun Edition from [Classic REbirth's site](https://classicrebirth.com/index.php/download/re2-sr-2020/). Put its `mod_sr_crypto.7z`, as it is (do not unpack it) in the game folder.
 4. Double-click `Set up Speedrun Edition.bat` in the game folder.
    - It makes `mod_chinese_sr.7z`.
    - If you put `mod_sr_crypto.7z` in the game folder, it moves it into `_ZhongwenPatch`, so MOD SELECTION lists only the Chinese one.
