@@ -12,6 +12,7 @@ Targeted fixes to the game and the extras, after 1.0. **Classic REbirth for the 
 ## What's new in 1.3
 
 **Supreme Skip** , Annette's scene (Leon A, ROOM60C0, the G-Virus): a skip in the middle of a voiced line no longer leaves the scene standing still until the line is over (up to 13.5 s, with no key working). The patch now cuts the line at the skip, and control comes back about 0.3 s after the press. Thanks to the testers who reported it.
+
 **Nothing else changed:** the packages have the same files as 1.2. Tested at seven points of the scene; new games skipped there still get the G-Virus, and without a skip the scene plays as before.
 
 ## You need
